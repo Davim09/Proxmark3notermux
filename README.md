@@ -27,7 +27,7 @@ Instale o aplicativo TCPUART
 Dentro dele em cima onde tem USB_UART clique em connect ele irá pedir permissão para que o acesse o proxmark3
 Logo em baixo, onde tem TCP (server stopped), vc irá marcar a caixinha server e colocar porta 8080, e clique em start
 
-<img src="img/Screenshot_2023-09-02-12-20-18-062_com.h ardcodedjoy.tcpuart.jpg">
+<img src="Proxmark3notermux/Screenshot_2023-09-02-12-20-18-062_com.h ardcodedjoy.tcpuart.jpg">
 
 Voltando para o termux, verifique se está dentro da pasta proxmark3, para isso digite:
 ```
