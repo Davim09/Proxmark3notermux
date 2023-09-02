@@ -44,4 +44,4 @@ Após dentro lá pasta client vc irá digitar esse comando:
 Assim ele irá abrir o terminal do proxmark3, lembrando que se vc desconectar ele do USB tera que ir lá no aplicativo TCPUART e fazer ele conectar novamente na primeira opção.
 
 Para mais informações:
-https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/termux_notes.md#usb-connection
+https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/termux_notes.md
