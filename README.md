@@ -3,7 +3,7 @@ Funcionando em um proxmark3 já com firmware, esse método esta funcionando apen
 
 # Instalando Requerimentos:
 ```
-pkg updade
+pkg up
 ```
 ```
 pkg upgrade
