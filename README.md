@@ -33,11 +33,8 @@ Voltando para o termux, verifique se está dentro da pasta proxmark3, para isso 
 ```
 ls
 ```
-Se aparecer um várias de pastas incluindo a pasta client então vc está dentro da pasta do proxmark3, se não aparecer as pastas, digite o comando:
-```
-cd proxmark3
-```
-Após dentro lá pasta client vc irá digitar esse comando:
+Se aparecer um várias de pastas incluindo a pasta client então vc está dentro da pasta do proxmark3,
+Após confirir se esta na pasta do proxmark3 digite sse comando para acessar o terminal do proxmark3:
 ```
 ./client/proxmark3 tcp:localhost:8080
 ```
