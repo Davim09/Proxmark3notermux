@@ -9,7 +9,7 @@ pkg update
 pkg upgrade
 ```
 ```
-pkg install make clang readline libc++ git binutils
+pkg install make clang readline libc++ git binutils libgd
 ```
 ```
 git clone https://github.com/RfidResearchGroup/proxmark3.git
